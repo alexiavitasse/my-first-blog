@@ -25,7 +25,7 @@ SECRET_KEY = '3#^^nbfy98ua8hm)5d98bkji-sbm7h9z14umd+40d3zt-*++f0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<avitasse>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'avitasse.pythonanywhere.com']
 
 
 # Application definition
